@@ -6,7 +6,7 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Shex Hama KP",
+  "author": "Shex Hama ",
   "license": "ISC",
   "dependencies": {
     "@discordjs/voice": "^0.11.0", 
